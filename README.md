@@ -16,9 +16,8 @@ For further information and interaction within the light field community, have a
 
 ## Datasets (Images)
 - [Stanford Light Field Archives: Old, New, Lytro, and Multiview ](http://lightfields.stanford.edu/)
-- [MIT Synthetic Light Field Archive](http://web.media.mit.edu/~gordonw/SyntheticLightFields/index.php)
+- [MIT Synthetic Light Field Archive - Waybackmachine](https://web.archive.org/web/20220120133401/http://web.media.mit.edu/~gordonw/SyntheticLightFields/index.php)
 - [4D Light Field Dataset (CVIA Konstanz & HCI Heidelberg)](http://lightfield-analysis.net/)
-- [HCI 4D Light Field Dataset](http://lightfieldgroup.iwr.uni-heidelberg.de/?page_id=713)
 - [Lytro first generation dataset](https://www.irisa.fr/temics/demos/lightField/index.html)
 - [EPFL Light-Field Image Dataset](http://mmspg.epfl.ch/EPFL-light-field-image-dataset)
 - [Disney High Spatio-Angular Resolution Light Fields](http://people.csail.mit.edu/changil/light-field-depth/)
