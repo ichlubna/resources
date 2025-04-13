@@ -43,6 +43,8 @@ For further information and interaction within the light field community, have a
 - [Light Field Dataset LF@FIT 4K synthetic light field scenes with 15x15 grid](https://www.fit.vut.cz/~ichlubna/lf)
 - [Lightfield with depth ground-truth](https://sites.google.com/view/cvia/plenoptic-imaging)
 - [LFDD: Light field image dataset for performance evaluation of objective quality metrics](https://sites.google.com/fel.cvut.cz/lfdd)
+- [Plenoptic cam and grid based datasets on Full Parallax Imaging](https://www.full-parallax-imaging.eu/outcomes/datasets/)
+- [TEDDY: A High-Resolution High Dynamic Range Light-Field Dataset](https://fordatis.fraunhofer.de/handle/fordatis/158)
 - *please add more :)*
 
 ## Datasets (Video)
@@ -56,6 +58,7 @@ For further information and interaction within the light field community, have a
 - [cocolib light field suite](http://cocolib.net/index.php/examples/lightfields)
 - [Geometric light field camera calibration toolbox](https://sites.google.com/site/yunsubok/lf_geo_calib)
 - [Blender addon to create synthetic light field data sets](https://github.com/lightfield-analysis/blender-addon)
+- [Blender light field addon with various camera grid shapes](https://github.com/IDLabMedia/blender-lightfield-addon)
 - [Plenoptic Toolbox 2.0](https://github.com/PlenopticToolbox/PlenopticToolbox2.0)
 - [Plenoptic-Simulation](https://github.com/Arne-Petersen/Plenoptic-Simulation)
 - [Matlab Light Field Toolbox - CLIM / V-SENSE](https://github.com/V-Sense/LFToolbox-CLIM_VSENSE)
@@ -63,6 +66,8 @@ For further information and interaction within the light field community, have a
 - [Light Field focus calibration and depth estimation](https://www.mathworks.com/matlabcentral/fileexchange/67876-lightfield-focus-calibration-for-metric-depth-estimation)
 - [Plenoptisign - Light Field Geometry Estimator](https://github.com/hahnec/plenoptisign/)
 - [Plenopticam - Light Field Rendering Software App](https://github.com/hahnec/plenopticam/)
+- [Light Field Video Viewer](https://github.com/junyanz/light-field-video)
+- [LFDisplay: a real-time system for light field microscopy](https://github.com/nemaload/LFDisplay)
 - *please add more :)*
 
 ## Algorithm Source Code
